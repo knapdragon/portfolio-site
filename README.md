@@ -1,4 +1,3 @@
-# portfolio-site
 Site for my portfolio. See it here: https://knapdragon.github.io/portfolio-site/
 
 Credit to:
