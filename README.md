@@ -1,4 +1,4 @@
-Site for my portfolio. See it here: https://knapdragon.github.io/portfolio-site/
+Site for my portfolio.
 
 Credit to:
 - HTML5UP for the base design
